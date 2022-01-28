@@ -1,13 +1,13 @@
 # Digital Bank
-##Digital Bank Project for DIO Bootcamp
-###Conceitos de Programação Orientada a Objetos estudados:
-####1. Herança
-####2. Polimorfismo
-####3. Sobrescrita
-####4. Encapsulamento
-####5. Abstração
+## Digital Bank Project for DIO Bootcamp
+### Conceitos de Programação Orientada a Objetos estudados:
+#### 1. Herança
+#### 2. Polimorfismo
+#### 3. Sobrescrita
+#### 4. Encapsulamento
+#### 5. Abstração
 
-##Herança
+## Herança
 >É o relacionamento entre classes em que uma 
 > classe chamada de subclasse (classe filha, 
 > classe derivada) é uma extensão, um subtipo, de 
@@ -18,7 +18,7 @@ No projeto  em específico, possuímos a classe **Conta**
 como a **Classe mãe**. E as classes **Conta Corrente** 
 e **Conta Poupança** como filhas.
 
-##Polimorfismo
+## Polimorfismo
 >O polimorfismo permite escrever programas que processam 
 > objetos que compartilham a mesma superclasse 
 > (direta ou indiretamente) como se todos fossem objetos da 
@@ -37,7 +37,7 @@ e **Conta Poupança** como filhas.
 Possuímos o método **imprimirExtrato** sendo executado de forma
 diferente nas classes filhas.
 
-##Sobrescrita
+## Sobrescrita
 >A técnica de sobrescrita permite reescrever um método 
 > em uma subclasse de forma que tenha comportamento 
 > diferente do método de mesma assinatura existente na 
@@ -45,7 +45,7 @@ diferente nas classes filhas.
 
 Isso acontece no próprio método **imprimirExtrato**
 
-##Encapsulamento
+## Encapsulamento
 >Encapsulamento é uma técnica utilizada para restringir o 
 > acesso a variáveis (atributos), métodos ou até à própria 
 > classe. Os detalhes da implementação ficam ocultos ao 
@@ -56,7 +56,7 @@ Isso acontece no próprio método **imprimirExtrato**
 Utilizamos isso quando definimos os atributos ou métodos de uma
 classe como **public**, **protected** ou **private**.
 
-##Abstração
+## Abstração
 >Abstração é a habilidade de concentrar nos aspectos 
 > essenciais de um contexto qualquer, ignorando 
 > características menos importantes ou acidentais. 
