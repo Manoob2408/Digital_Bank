@@ -1,5 +1,5 @@
 # Digital Bank
-## Digital Bank Project for DIO Bootcamp
+
 ### Conceitos de Programação Orientada a Objetos estudados:
 #### 1. Herança
 #### 2. Polimorfismo
